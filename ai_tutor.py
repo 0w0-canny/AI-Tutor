@@ -88,3 +88,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+\\recommended to open vscode w ith all necessary packages\\
